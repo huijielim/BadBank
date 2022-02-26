@@ -1,13 +1,18 @@
 # BankBank Project 
 
 Project Title: BankBank 
+
 Description: This is a project which showcases a bad bank without any security with basic functionalities of create account, deposit, withdraw, check balance and see all data. 
+
 Installation: 
 1. Clone git repository
 2. Follow instructions below "Getting Started with Create React App"
 3. Run "npm run build" to create production app to be hosted into servers. 
+
 Screenshots: -
+
 Technology Used: HTML, CSS, JS, React, Bootstrap, Node.js, Express, MongoDB (upcoming version)
+
 Features:
 1. Home page
 2. Create Account 
