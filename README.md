@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# BankBank Project 
+
+Project Title: BankBank 
+Description: This is a project which showcases a bad bank without any security with basic functionalities of create account, deposit, withdraw, check balance and see all data. 
+Installation: 
+1. Clone git repository
+2. Follow instructions below "Getting Started with Create React App"
+3. Run "npm run build" to create production app to be hosted into servers. 
+Screenshots: -
+Technology Used: HTML, CSS, JS, React, Bootstrap, Node.js, Express, MongoDB (upcoming version)
+Features:
+1. Home page
+2. Create Account 
+3. Login
+4. Deposit
+5. Withdraw
+6. Check Balance 
+7. See All Data
+8. License: MIT
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
